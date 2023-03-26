@@ -3,7 +3,7 @@
 ###################### CREATED By Luca S. ITA Ministry of Defense employee ######################### 
 
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 
 # install Apache web server
 sudo apt install apache2 -y
